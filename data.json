@@ -24,7 +24,7 @@
     }
   ],
   "certificate": {
-      "isActive" : false,
+      "isActive" : true,
       "url" : "https://hululkitab.co/certificate/",
       "title" : "شهادة شكر وتقدير ( اضغط هنا )",
       "image": "https://firebasestorage.googleapis.com/v0/b/holol-567ec.appspot.com/o/certificates%2Fcertificate-image.png?alt=media&token=24e7814e-2699-4105-a293-9ca902150b69"
