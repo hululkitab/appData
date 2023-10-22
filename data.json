@@ -22,7 +22,7 @@
     }
   ],
   "certificate": {
-      "isActive" : false,
+      "isActive" : true,
       "url" : "https://hululkitab.co/certificate/",
       "title" : "شهادة شكر وتقدير",
       "image": "https://hululkitab.co/wp-content/uploads/2022/05/certificate-image.png"
