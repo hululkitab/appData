@@ -2,12 +2,12 @@
   "classes" : [
     {
       "isActive" : true,
-      "url" : "https://hululkitab.co/hulul-fsl1/",
+      "url" : "https://ktubi.net/final.php",
       "title" : "حلول الفصل الدراسي الاول"
     },
     {
       "isActive" : true,
-      "url" : "https://hululkitab.co/hulul-fsl2/",
+      "url" : "https://ktubi.net/final.php",
       "title" : "حلول الفصل الدراسي الثاني"
     },
     {
@@ -17,8 +17,8 @@
     },
     {
       "isActive" : false,
-      "url" : "https://hululkitab.co/?p=38321",
-      "title" : "نماذج اختبارات الفترة الثانية"
+      "url" : "https://ktubi.net/final.php",
+      "title" : "تهنئة نهاية العام الدراسي والختريجين"
     }
   ],
 
