@@ -1,17 +1,17 @@
 {
   "classes" : [
     {
-      "isActive" : true,
+      "isActive" : false,
       "url" : "https://ktubi.net/final.php",
       "title" : "حلول الفصل الدراسي الاول"
     },
     {
-      "isActive" : true,
+      "isActive" : false,
       "url" : "https://ktubi.net/final.php",
       "title" : "حلول الفصل الدراسي الثاني"
     },
     {
-      "isActive" : false,
+      "isActive" : true,
       "url" : "https://hululkitab.co/hulul-fsl3/",
       "title" : "حلول الفصل الدراسي الثالث"
     },
