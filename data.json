@@ -2,12 +2,12 @@
   "classes" : [
     {
       "isActive" : true,
-      "url" : "https://ktubi.net/final.php",
+      "url" : "https://hululktby.net/f1/",
       "title" : "حلول الفصل الدراسي الاول"
     },
     {
       "isActive" : true,
-      "url" : "https://ktubi.net/final.php",
+      "url" : "https://hululktby.net/f2/",
       "title" : "حلول الفصل الدراسي الثاني"
     },
     {
@@ -16,7 +16,7 @@
       "title" : "حلول الفصل الدراسي الثالث"
     },
     {
-      "isActive" : false,
+      "isActive" : true,
       "url" : "https://ktubi.net/final.php",
       "title" : "تهنئة نهاية العام الدراسي والختريجين"
     }
